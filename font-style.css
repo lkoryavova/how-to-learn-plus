@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(../inter/inter/Inter-Bold.woff) format('woff'),
+         url(../inter/inter/Inter-Bold.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../inter/inter/Inter-Regular.woff) format('woff'),
+         url(../inter/inter/Inter-Regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../inter/inter/Inter-SemiBold.woff) format('woff'),
+         url(../inter/inter/Inter-SemiBold.woff2) format('woff2');
+}
