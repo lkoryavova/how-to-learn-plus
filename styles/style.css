@@ -21,7 +21,52 @@
   height: 568px;
   width: 568px;
 }
-
+.Descripcion {
+  margin-top: 100px;
+  display: flex;
+  border: 2px solid #00ffff;
+  height: 680px;
+}
+.Column_1 {
+  width: 24%;
+  border: 2px solid #00ffff;
+  padding: 15px 15px 10px 150px;
+}
+.blue_text {
+  color: #1E90FF;
+  margin-top: 0;
+  font-size: 28px;
+  line-height: 44px;
+}
+.Column_2 {
+  width: 76%;
+  border: 2px solid #00ffff;
+  padding: 15px 150px 10px 15px; 
+}
+.Text {
+  margin-top: 0;
+  margin-bottom: 50px;
+  font-size: 28px;
+  line-height: 44px;
+}
+p1{
+  font-weight: bold;
+}
+.Descripcion_2 {
+  margin-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  border: 2px solid #00ffff;
+  height: 680px;
+}
+.Digits_1 {
+  margin: 10px;
+  display: flex;
+  border: 2px solid #00ffff;
+  width: 24%;
+  height: 290px;
+}
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
@@ -31,5 +76,9 @@
 }
 
 .font-container_font_Inter {
+  font-family: 'Inter';
+
+}
+.font-container_font_InterInter-Regular {
   font-family: 'Inter';
 }
