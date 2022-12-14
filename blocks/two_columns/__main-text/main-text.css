@@ -1,0 +1,7 @@
+.main-text {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    row-gap: 30px;
+    width: 80%;
+}
