@@ -1,7 +1,9 @@
 .cards {
-    display:grid;
-    grid-template-columns: auto;
+    display: grid;
+    grid-template-columns: 240px 240px 240px;
     column-gap: 100px;
-   
-
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+    /* border: 1px solid #000; */
 }
