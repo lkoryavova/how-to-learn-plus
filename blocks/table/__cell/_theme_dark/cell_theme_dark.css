@@ -1,0 +1,7 @@
+.cell_theme_dark {
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    width: 200px;
+    /* border: 2px solid #ffff; */
+}
