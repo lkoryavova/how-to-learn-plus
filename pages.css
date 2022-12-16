@@ -23,3 +23,7 @@
 @import url(../blocks/cards/__image/image.css);
 @import url(../blocks/cards/__cards-title/cards-title.css);
 @import url(../blocks/cards/__card-description/card-description.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__cell/cell.css);
+@import url(../blocks/table/__text/text.css);
+@import url(../blocks/table/__heading/heading.css);
