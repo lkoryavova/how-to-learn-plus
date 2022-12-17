@@ -1,0 +1,5 @@
+.footer__column-links {
+    display: grid;
+    grid-column: auto;
+    row-gap: 10px;
+}

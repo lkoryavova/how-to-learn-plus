@@ -1,0 +1,8 @@
+.footer__box {
+    width: 200px;
+    height: 61px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1ps solid #fff;
+}
