@@ -1,8 +1,0 @@
-.techniques-center {
-    min-width: 784px;
-    width: 80%;
-    /* border: 1px solid #000; */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
