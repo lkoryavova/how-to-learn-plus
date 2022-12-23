@@ -43,11 +43,11 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/_content_copyright/footer__columns_content_copyright.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
-@import url(../blocks/footer/logo/logo_place_footer.css);
+/* @import url(../blocks/footer/logo/logo_place_footer.css); */
 @import url(../blocks/footer/__box/footer__box.css);
 @import url(../blocks/footer/__autor/footer__autor.css);
-@import url(../blocks/footer/__columns/footer__columns_content_info.css);
-@import url(../blocks/footer/__columns/footer__columns_content_social.css);
+/* @import url(../blocks/footer/__columns/footer__columns_content_info.css); */
+/* @import url(../blocks/footer/__columns/footer__columns_content_social.css); */
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
