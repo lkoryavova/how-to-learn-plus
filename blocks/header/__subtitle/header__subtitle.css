@@ -1,8 +1,7 @@
 .header__subtitle {
-    /* padding-right: 100px; */
+    margin: 0;
     width: 388px;
     line-height: 25px;
     font-size: 18px;
     font-style: normal;
-    /* border: 1px solid #000; */
 }
