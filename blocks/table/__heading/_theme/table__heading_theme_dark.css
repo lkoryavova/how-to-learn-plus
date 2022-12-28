@@ -1,3 +1,4 @@
 .table__heading_theme_dark {
     color: #ffff;
+    z-index: 1;
 }
